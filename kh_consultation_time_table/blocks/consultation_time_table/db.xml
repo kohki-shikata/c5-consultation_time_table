@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+    <schema version="0.3">
+    <table name="btConsultationTimeTable">
+    <field name="bID" type="I">
+    <key/>
+    <unsigned/>
+    </field>
+    <field name="title" type="C" size="50"/>
+    <field name="am_label" type="C" size="20"/>
+    <field name="am_caption" type="C" size="20"/>
+    <field name="pm_label" type="C" size="20"/>
+    <field name="pm_caption" type="C" size="20"/>
+    <field name="mon_label" type="C" size="10"/>
+    <field name="tue_label" type="C" size="10"/>
+    <field name="wed_label" type="C" size="10"/>
+    <field name="thu_label" type="C" size="10"/>
+    <field name="fri_label" type="C" size="10"/>
+    <field name="sat_label" type="C" size="10"/>
+    <field name="sun_label" type="C" size="10"/>
+    <field name="mon_am_type" type="I" size="3"/>
+    <field name="tue_am_type" type="I" size="3"/>
+    <field name="wed_am_type" type="I" size="3"/>
+    <field name="thu_am_type" type="I" size="3"/>
+    <field name="fri_am_type" type="I" size="3"/>
+    <field name="sat_am_type" type="I" size="3"/>
+    <field name="sun_am_type" type="I" size="3"/>
+    <field name="mon_pm_type" type="I" size="3"/>
+    <field name="tue_pm_type" type="I" size="3"/>
+    <field name="wed_pm_type" type="I" size="3"/>
+    <field name="thu_pm_type" type="I" size="3"/>
+    <field name="fri_pm_type" type="I" size="3"/>
+    <field name="sat_pm_type" type="I" size="3"/>
+    <field name="sun_pm_type" type="I" size="3"/>
+    <field name="footer_caption" type="X2"/>
+    </table>
+    </schema>

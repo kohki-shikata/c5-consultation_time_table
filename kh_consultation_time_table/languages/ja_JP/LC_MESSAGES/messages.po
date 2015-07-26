@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kh_ctt\n"
+"POT-Creation-Date: 2015-07-25 12:34+0900\n"
+"PO-Revision-Date: 2015-07-25 12:59+0900\n"
+"Last-Translator: Kohki SHIKATA <indigoworks@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../blocks/consultation_time_table/controller.php:14
+msgid "So easy to make a consultation timetable for typical Japanese Clinic"
+msgstr ""
+"日本の診療所／クリニックで使用される「診察時間」の表組みを簡単に作成します"
+
+#: ../../../blocks/consultation_time_table/controller.php:19
+#: ../../../controller.php:23
+msgid "Consultation Time Table"
+msgstr "診察時間"
+
+#: ../../../blocks/consultation_time_table/form.php:4
+msgid "(none)"
+msgstr "（表示なし）"
+
+#: ../../../blocks/consultation_time_table/form.php:13
+msgid "Mon."
+msgstr "月"
+
+#: ../../../blocks/consultation_time_table/form.php:14
+msgid "Tue."
+msgstr "火"
+
+#: ../../../blocks/consultation_time_table/form.php:15
+msgid "Wed."
+msgstr "水"
+
+#: ../../../blocks/consultation_time_table/form.php:16
+msgid "Thu."
+msgstr "木"
+
+#: ../../../blocks/consultation_time_table/form.php:17
+msgid "Fri."
+msgstr "金"
+
+#: ../../../blocks/consultation_time_table/form.php:18
+msgid "Sat."
+msgstr "土"
+
+#: ../../../blocks/consultation_time_table/form.php:19
+msgid "Sun."
+msgstr "日"
+
+#: ../../../blocks/consultation_time_table/form.php:27
+msgid "Title"
+msgstr "タイトル"
+
+#: ../../../blocks/consultation_time_table/form.php:47
+msgid "AM label"
+msgstr "午前表記"
+
+#: ../../../blocks/consultation_time_table/form.php:49
+#: ../../../blocks/consultation_time_table/form.php:78
+msgid "caption"
+msgstr "キャプション"
+
+#: ../../../blocks/consultation_time_table/form.php:76
+msgid "PM label"
+msgstr "午後表記"
+
+#: ../../../blocks/consultation_time_table/form.php:108
+msgid "Footer description"
+msgstr "備考"
+
+#: ../../../controller.php:14
+msgid "Access Denied."
+msgstr ""
+
+#: ../../../controller.php:27
+msgid "Easy to make consultationt time table"
+msgstr "「診察時間」の表組みを簡単に作成します"
